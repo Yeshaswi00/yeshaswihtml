@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+.id1{
+    height: 100px;
+    width: 200px;
+    margin-right:1000px;
+}
+.id2{
+    height: 100px;
+    width: 200px;
+}
+.id3{
+    height: 100px;
+    width: 800px;
+    margin-right:400px;
+}
+.id4{
+    height: 100px;
+    width: 200px;
+}
